@@ -3,7 +3,7 @@ The fully automated afk bot for Co-op vs. AI gamemode. We implement this AFK bot
 
 This project is designed for TW server. If you want to run this code on other server, you have to modify the templates corresponding to your GUI to ensure our program can find the target from your screen.
 
-[Demo](https://github.com/cwLin1/LoL-AFK-Bot/assets/61427980/8fd34c17-85a5-4a0e-9c66-23f289cb62b4)
+![Demo](https://github.com/cwLin1/LoL-AFK-Bot/assets/61427980/8fd34c17-85a5-4a0e-9c66-23f289cb62b4)
 
 ## How to run
 1. Before running, you have to make sure all of your abilities are set to smart cast, hotkeys and GUI setting are in default.
