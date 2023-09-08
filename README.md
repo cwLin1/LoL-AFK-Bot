@@ -1,7 +1,7 @@
 # LoL-AFK-Bot
 The fully automated afk bot for Co-op vs. AI gamemode. We implement this AFK bot only with Pydirectinput and OpenCV, so it might be undetectable.
 
-This project is designed for TW server. If you want to run this code on other server, you have to modify the templates corresponding to your GUI to ensure our program can find the target on your screen.
+This project is designed for TW server. If you want to run this code on other server, you have to modify the templates corresponding to your GUI to ensure our program can find the target from your screen.
 
 ## How to run
 1. Open your LoL client and start a party.
