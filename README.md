@@ -21,3 +21,7 @@ This project is designed for TW server. If you want to run this code on other se
    ![image](https://github.com/cwLin1/LoL-AFK-Bot/assets/61427980/d3bcf35d-04a5-44bb-a39a-50dfb4f4d61b)
 
 If you are already in the game, then run ```python ingame.py```, our program will finish the game autoamtically.
+
+Video:
+https://github.com/cwLin1/LoL-AFK-Bot/assets/61427980/8fd34c17-85a5-4a0e-9c66-23f289cb62b4
+
