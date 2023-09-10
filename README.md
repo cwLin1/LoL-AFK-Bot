@@ -16,10 +16,10 @@ https://github.com/cwLin1/LoL-AFK-Bot/assets/61427980/8fd34c17-85a5-4a0e-9c66-23
     ![image](https://github.com/cwLin1/LoL-AFK-Bot/assets/61427980/bf4017ea-f36d-4b94-9013-30ee55468b07)
 
 3. Run the code with following commands. (We use Sona bot in this example.)
-  ```
-  cd <Project Folder>/sona_bot
-  python bot.py
-  ```
+    ```
+    cd <Project Folder>/sona_bot
+    python bot.py
+    ```
 
 4. Insert the number of games that you want to AFK.
 
